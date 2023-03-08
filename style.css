@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+a{
+    color: black;
+}
+em{
+   color: #A5B4FC; 
+}
+h1{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    color: #A5B4FC;
+    font-size: 3.5em;
+}
+p{
+    font-size: 1.1em;
+    font-family:'manrope';
+}
+li{
+    font-size: 1.1em;
+    font-family: 'manrope';
+}
+a{
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'manrope';
+}
+.navba1{
+    opacity: 0.5;
+}
+body{
+    background-color:#1F2039;
+}
+
+.cta{
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-family: 'montserrat';
+    border: 50px;
+}
+.comp{
+    border-right: 1px solid  #A5B4FC;
+    border-bottom: 1px solid #A5B4FC;
+    padding: 50px;
+}
+header, footer{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px ;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+.cat:hover{
+    background: linear-gradient(#696484, #8788BA);
+    text-decoration: none;
+    
+}
+.lien-icone{
+    margin-left: 30px;
+}
+.lien-icone:hover{
+    opacity: 0.5;
+}
+
+
+.copm h2{
+    margin-top: 30px;
+}
+.comp ul{
+    margin-top: 30px;
+}
+
+section{
+    padding: 80px;
+}
+
+h1{
+    text-align: center;
+}
+
+.a-propos-main{
+    width: 50%;
+    margin: auto;
+}
+.navba1 img{
+    display: flex;
+    flex-direction: row;
+    float: auto;
+}
+
+footer,
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+nav a{
+    margin-left: 30px;
+}
+
+
+.accueil-photo{
+    background-color: white;
+    padding: 80px;
+
+  }
